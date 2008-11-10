@@ -1,0 +1,3 @@
+
+A very simple PDF plugin for Grails which adds taglibs and controllers
+to generate a PDF from any web page in the app.
